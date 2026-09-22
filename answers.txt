@@ -1,6 +1,12 @@
+
 Q1: Why might we consider using Git?
 
 Answer: To track file changes and to push pull merge code efficiently
 
 
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Healthcare data science can predict diseases using medical records
 
